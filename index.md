@@ -87,4 +87,4 @@ We may update this policy from time to time. We will post the new version on thi
 
 ## 10. Contact us
 Suratec Co., Ltd.
-Email: **[CONTACT_EMAIL]**
+Email: **support@suratec.co**

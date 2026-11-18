@@ -87,4 +87,4 @@ lang: th
 
 ## 10. ติดต่อเรา
 บริษัท สุราเทค จำกัด
-อีเมล: **[CONTACT_EMAIL]**
+อีเมล: **support@suratec.co**
